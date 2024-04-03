@@ -1,6 +1,6 @@
 # Hello, I'm Eliz Yanik! 
 
-I am a passionate and dedicated student who loves to help others and tinker around with my Raspberry Pi!
+I am a passionate and dedicated student who loves to help others and tinker around with my Raspberry Pi and Arduino kit!
 
 ## Education
 - **Rutgers University – Camden**
