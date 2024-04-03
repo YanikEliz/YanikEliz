@@ -59,5 +59,5 @@ I am a passionate and dedicated student who loves to help others and tinker arou
 ## Organizations
 - Member of the Association for Computing Machinery
 
-Feel free to connect with me on [[LinkedIn](https://www.linkedin.com/in/eliz-yanik-63a000149)](#)!
+Feel free to connect with me on [LinkedIn(https://www.linkedin.com/in/eliz-yanik-63a000149)]!
 
