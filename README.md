@@ -1,60 +1,76 @@
 # Hello, I'm Eliz Yanik! 
 
-I am a passionate and dedicated student who loves to help others and tinker around with my Raspberry Pi and Arduino kit!
+I am a recent graduate trying to tinker with things while job searching!
 
-## Education
-- **Rutgers University – Camden**
-  - B.S. Applied and Computational Mathematics, Class of January 2024
-    - Major GPA: 3.85
-  - Minor in Computer Science
-  - Applied Mathematics Masters Candidate, Expected Graduation: January 2025
+[Email](mailto:elizyanik@gmail.com)
 
-## Coursework
-- **Math:**
-  - Differential Equations, Discrete Math, Linear Algebra, Probability, Applied Statistics, Numerical Methods, Industrial Math, Computational Math, Markov Chain Monte Carlo Methods
-- **Computer Science:**
-  - Data Structures, Mobile Development, Computer Organization, Scientific Computing, Data Visualization, Distributed and Parallel Cloud Computing
+## 🏫 Education
+**Rutgers University**  
+**Master of Science in Applied and Computational Mathematics** *(Jan. 2025)*  
+- **GPA:** 3.90  
+- **Capstone Project:** Privacy-Preserving Neural Networks for Alzheimer’s Prediction  
+  - Developed adversarial mitigation techniques for Fully Homomorphic Encryption (FHE) systems to ensure secure computations for medical AI workflows.
+  - Simulated adversarial attacks on Alzheimer’s OASIS dataset using Python and PyTorch, achieving metrics: MSE = 0.0264, R² = -0.0326.
+  - Enabled scalable, privacy-preserving neural networks for healthcare applications, showcasing robust encrypted AI for sensitive datasets.
 
-## Skills (In order of proficiency)
-- **Programming:** Python, C, C++, Java, Kotlin, Assembly, Go
-- **Software:** Jupyter, VSCode, Git, Unix, Microsoft Office, Android Studio
+**Bachelor of Science in Mathematics** *(Jan. 2024)*  
+- **Minor:** Computer Science  
+- **Major GPA:** 3.85  
 
-## Work Experience
-- **Teaching Assistant**
-  - Rutgers University – Camden, Camden, NJ
-  - Current
-  - Instruct students in Calc II and grade their work
-  - Proctor quizzes and exams
+---
 
-- **Course Assistant/Tutor**
-  - Rutgers University – Camden, Camden, NJ
-  - Sept. 2023 – Dec. 2023
-  - Instructed students in Linear Algebra, Pre-Calculus, and Calc I
-  - Reviewed course materials and graded students’ work
-  - Held individual sessions for other courses such as Discrete Math, Object-Oriented, and C Programming
+## 🛠️ Skills
+- **AI/ML:** PyTorch, ONNX, Scikit-learn, adversarial attack mitigation, stochastic modeling.  
+- **Mathematics:** Fourier transforms, complex analysis, numerical methods, differential equations, MCMC.  
+- **Data Analysis:** Numpy, Pandas, Matplotlib, Seaborn, FFT, Hilbert transforms.  
+- **Programming:** Python, C, C++, Java, Kotlin, Latex, Assembly, Go, Shell Scripting.  
+- **Tools:** Git, Unix, Jupyter, VSCode, Microsoft Office, Docker (NVIDIA GPU acceleration).  
 
-- **Pharmacy Manager**
-  - Milltown Pharmacy, Milltown, NJ
-  - Aug. 2020 – May 2021
-  - Managed the COVID relief team and held staff accountable for PPE
-  - Taught all trainees how to use our software and organizational systems 
+---
 
-- **Filing Medical Assistant**
-  - Dr. Aaron David and Dr. Larissa Fomitcheva OBGYN, Babylon, NY
-  - April 2012 – March 2020
-  - Provided friendly check-in and booking of appointments
-  - Shadowed during school breaks and helped translate diagnoses
+## 🔬 Research & Projects
+### Dielectric Fluid Cooling System
+- Modeled thermal performance using differential equations and Runge-Kutta methods.
+- Evaluated fluids (Novec, Fluorinert, mineral oil) for cost-efficiency and temperature stabilization, identifying practical cooling solutions.
 
-## Research & Projects
-- **Math Modeling**
-  - Modeled dielectric fluid cooling of a computer system
-  - Goal was to find the optimal solution for cooling fluid for a user
-  - Created a PowerPoint presentation, discussing the analysis and procedure of research for the model
+### Markov Chain Monte Carlo Simulations
+- Implemented Gibbs, Hit-and-Run, and Slice samplers in Python, validating convergence and performance with empirical histograms.
+- Estimated high-dimensional hyperball and hypercube volumes using Hit-and-Run sampling.
+- Analyzed beta-binomial and multimodal distributions, improving sampling accuracy and efficiency.
 
-## Awards
-- Dean’s List: Fall 2022, Spring 2023, Fall 2023
-- 1st place Spring 2023 and 2024 RUC Hackathon
-- 1st place Spring 2023 RUC Calculus Competition
+---
+
+## 💼 Internship Experience
+### Algorithms Intern  
+**Veribase** | Istanbul, Turkey *(July 2023)*  
+- Improved churn prediction model accuracy by 15% using advanced data preprocessing and Python-based analysis.  
+- Processed and cleaned datasets with 500,000+ rows, enhancing reliability and efficiency.
+
+### Operations Intern  
+**Medyaevi** | Istanbul, Turkey *(June 2023)*  
+- Designed and managed a bilingual website, streamlining online listings on Booking.com.
+
+---
+
+## 📚 Work Experience
+### Course Assistant/Tutor  
+**Rutgers University** | Camden, NJ *(Sept. 2023 – Dec. 2024)*  
+- Instructed calculus II for 60+ students, grading coursework and providing tailored academic support.  
+- Tutored subjects including discrete math, linear algebra, calculus I, data structures, C, and Unix.
+
+### Pharmacy Manager  
+**Milltown Pharmacy** | Milltown, NJ *(Aug. 2020 – May 2021)*  
+- Managed the COVID relief team and ensured compliance with PPE guidelines.  
+- Trained all staff on software and organizational systems.
+
+---
+
+## 🏆 Awards
+- **1st Place, Spring 2024 and Spring 2023 RUC Hackathon**  
+- **1st Place, Spring 2023 RUC Calculus Competition**  
+- **Mathematical Sciences Scholarly Award 2024**
+
+---
 
 ## Organizations
 - Member of the Association for Computing Machinery
