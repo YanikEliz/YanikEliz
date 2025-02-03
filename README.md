@@ -1,25 +1,26 @@
-# Hello, I'm Eliz Yanik! 
+# Hello, I'm Eliz Yanik!  
 
-I am a recent graduate trying to tinker with things while job searching!
+I am a recent graduate trying to tinker with things while job searching!  
 
-[Email](mailto:elizyanik@gmail.com)
+[Email](mailto:elizyanik@gmail.com) | [GitHub](https://github.com/YanikEliz) | [LinkedIn](https://www.linkedin.com/in/eliz-yanik-63a000149)  
 
-## 🏫 Education
-**Rutgers University**  
+## 🏫 Education  
+**Rutgers University – Camden**  
 **Master of Science in Applied and Computational Mathematics** *(Jan. 2025)*  
 - **GPA:** 3.90  
 - **Capstone Project:** Privacy-Preserving Neural Networks for Alzheimer’s Prediction  
-  - Developed adversarial mitigation techniques for Fully Homomorphic Encryption (FHE) systems to ensure secure computations for medical AI workflows.
-  - Simulated adversarial attacks on Alzheimer’s OASIS dataset using Python and PyTorch, achieving metrics: MSE = 0.0264, R² = -0.0326.
-  - Enabled scalable, privacy-preserving neural networks for healthcare applications, showcasing robust encrypted AI for sensitive datasets.
+  - Developed adversarial mitigation techniques for Fully Homomorphic Encryption (FHE) systems to ensure secure computations for medical AI workflows.  
+  - Simulated adversarial attacks on Alzheimer’s OASIS dataset using Python and PyTorch, achieving metrics: MSE = 0.0264, R² = -0.0326, with negligible performance loss.  
+  - Enabled scalable, privacy-preserving neural networks for healthcare applications, ensuring compliance with stringent data privacy regulations.  
 
 **Bachelor of Science in Mathematics** *(Jan. 2024)*  
 - **Minor:** Computer Science  
 - **Major GPA:** 3.85  
+- **Awards & Activities:** Dean’s List (2022 – 2024), Association for Computing Machinery, Math Club  
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills  
 - **AI/ML:** PyTorch, ONNX, Scikit-learn, adversarial attack mitigation, stochastic modeling.  
 - **Mathematics:** Fourier transforms, complex analysis, numerical methods, differential equations, MCMC.  
 - **Data Analysis:** Numpy, Pandas, Matplotlib, Seaborn, FFT, Hilbert transforms.  
@@ -28,52 +29,51 @@ I am a recent graduate trying to tinker with things while job searching!
 
 ---
 
-## 🔬 Research & Projects
-### Dielectric Fluid Cooling System
-- Modeled thermal performance using differential equations and Runge-Kutta methods.
-- Evaluated fluids (Novec, Fluorinert, mineral oil) for cost-efficiency and temperature stabilization, identifying practical cooling solutions.
+## 🔬 Research & Projects  
+### Dielectric Fluid Cooling System  
+- Modeled thermal performance using differential equations and Runge-Kutta methods.  
+- Evaluated fluids (Novec, Fluorinert, mineral oil) for cost-efficiency and temperature stabilization, identifying optimal cooling solutions.  
 
-### Markov Chain Monte Carlo Simulations
-- Implemented Gibbs, Hit-and-Run, and Slice samplers in Python, validating convergence and performance with empirical histograms.
-- Estimated high-dimensional hyperball and hypercube volumes using Hit-and-Run sampling.
-- Analyzed beta-binomial and multimodal distributions, improving sampling accuracy and efficiency.
+### Markov Chain Monte Carlo Simulations  
+- Implemented Gibbs, Hit-and-Run, and Slice samplers in Python, validating convergence and performance with empirical histograms.  
+- Estimated high-dimensional hyperball and hypercube volumes using Hit-and-Run sampling.  
+- Analyzed beta-binomial and multimodal distributions, improving sampling accuracy and efficiency.  
 
 ---
 
-## 💼 Internship Experience
+## 💼 Internship Experience  
 ### Algorithms Intern  
 **Veribase** | Istanbul, Turkey *(July 2023)*  
 - Improved churn prediction model accuracy by 15% using advanced data preprocessing and Python-based analysis.  
-- Processed and cleaned datasets with 500,000+ rows, enhancing reliability and efficiency.
+- Processed and cleaned datasets with 500,000+ entries, boosting reliability and efficiency.  
 
 ### Operations Intern  
 **Medyaevi** | Istanbul, Turkey *(June 2023)*  
-- Designed and managed a bilingual website, streamlining online listings on Booking.com.
+- Engineered and maintained a multilingual web platform, enhancing online listings on Booking.com.  
+- Increased user accessibility by 30% and efficiency by 40%.  
 
 ---
 
-## 📚 Work Experience
-### Course Assistant/Tutor  
+## 📚 Work Experience  
+### Teaching Assistant & Tutor  
 **Rutgers University** | Camden, NJ *(Sept. 2023 – Dec. 2024)*  
-- Instructed calculus II for 60+ students, grading coursework and providing tailored academic support.  
-- Tutored subjects including discrete math, linear algebra, calculus I, data structures, C, and Unix.
+- Instructed Calculus II for 60+ students, managing grading and personalized academic support.  
+- Tutored subjects including Discrete Math, Linear Algebra, Calculus I, Data Structures, C, and Unix.  
 
 ### Pharmacy Manager  
 **Milltown Pharmacy** | Milltown, NJ *(Aug. 2020 – May 2021)*  
-- Managed the COVID relief team and ensured compliance with PPE guidelines.  
-- Trained all staff on software and organizational systems.
+- Led COVID relief team, ensuring PPE compliance and operational readiness.  
+- Trained staff on software and organizational systems.  
 
 ---
 
-## 🏆 Awards
+## 🏆 Awards  
 - **1st Place, Spring 2024 and Spring 2023 RUC Hackathon**  
 - **1st Place, Spring 2023 RUC Calculus Competition**  
-- **Mathematical Sciences Scholarly Award 2024**
+- **Mathematical Sciences Scholarly Award (2023 – 2024)**  
 
 ---
 
-## Organizations
-- Member of the Association for Computing Machinery
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/eliz-yanik-63a000149)!
-
+## Organizations  
+- **Association for Computing Machinery**  
+- **Math Club**  
